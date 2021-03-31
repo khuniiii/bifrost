@@ -1,24 +1,3 @@
-# project
-
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# BIFROST
+## 프로젝트 소개
+기숙사 입소 도우미 웹사이트 BIFROST 입니다!
